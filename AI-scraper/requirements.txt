@@ -1,0 +1,6 @@
+ollama
+playwright
+beautifulsoup4
+openpyxl
+pandas
+
